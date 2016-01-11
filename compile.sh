@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ghc --make test.hs -o dest
+ghc --make test.hs -o dest/test
 
