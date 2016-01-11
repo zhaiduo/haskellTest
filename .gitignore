@@ -3,3 +3,5 @@
 *.hi
 dest
 _compile.sh
+.cabal-sandbox
+cabal.sandbox.config
